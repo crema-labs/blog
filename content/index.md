@@ -1,9 +1,9 @@
 ---
 date: 2024-09-02
-title: Crema's Labs
+title: Crema Labs
 ---
 
-Crema Labs is a blockchain R&D studio created and maintained by [Yash](https://github.com/yash1io), [Ayman](https://github.com/nesopie), [Vikas](https://github.com/0xvikasrushi), and [Jayendra](https://github.com/jayendramadaram). We specialize in zero-knowledge proofs ZK, DeFi, and Bitcoin. Our mission is to push the boundaries of blockchain technology by developing cutting-edge solutions for the future of secure and scalable decentralized systems.
+Crema Labs is a blockchain R&D studio. We specialize in zero-knowledge proofs ZK, DeFi, and Bitcoin. Our mission is to push the boundaries of blockchain technology by developing cutting-edge solutions for the future of secure and scalable decentralized systems.
 
 What We’re Working On:
 

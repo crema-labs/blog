@@ -7,7 +7,7 @@ Crema Labs is a blockchain R&D studio. We specialize in zero-knowledge proofs ZK
 
 What We’re Working On:
 
-1. [Web Proofs](https://hackmd.io/@immabeyeet/By3gIW690): Exploring the intersection of secure web content delivery and zero-knowledge proofs.
+1. [Web Proofs](./SXG.md): Exploring the intersection of secure web content delivery and zero-knowledge proofs.
 2. [App Attest](https://github.com/crema-labs/app-attest/blob/feat/certPathVerify/specs/appattest.md): Develop a zk-based attestation system that integrates with existing Apple Devices. 
 3. Cryptographic Primitives: Building foundational libraries to remove limitations for the future projects and the broader blockchain community.
 4. Bitcoin: Enhancing cross-chain interoperability with lightweight Bitcoin verification.
